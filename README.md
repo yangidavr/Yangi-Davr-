@@ -1,2 +1,1 @@
-# Yangi-Davr-
-Yangiliklari
+# Yangi  Davr
